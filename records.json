@@ -1,0 +1,38 @@
+[
+  {
+    "user_id": "Ud14769439b55850f1dad2686a235b838",
+    "item": "午餐",
+    "amount": 100,
+    "category": "未分類",
+    "note": "媽媽買",
+    "image_path": null,
+    "time": "2026-04-04T23:05:26.899464"
+  },
+  {
+    "user_id": "U5521e5b350014d703d86902c3d6d78ba",
+    "item": "三明治",
+    "amount": 100,
+    "category": "午餐",
+    "note": "無",
+    "image_path": "uploads\\U5521e5b350014d703d86902c3d6d78ba_608152115570802987.jpg",
+    "time": "2026-04-04T23:56:33.119589"
+  },
+  {
+    "user_id": "U5521e5b350014d703d86902c3d6d78ba",
+    "item": "三明治",
+    "amount": 100,
+    "category": "未分類",
+    "note": "無",
+    "image_path": null,
+    "time": "2026-04-05T00:05:45.358855"
+  },
+  {
+    "user_id": "U28fa17d0e4c2fd7f0beab9bd4fae9db1",
+    "item": "三明治",
+    "amount": 100,
+    "category": "晚餐",
+    "note": "無",
+    "image_path": null,
+    "time": "2026-04-05T14:42:21.224369"
+  }
+]
